@@ -1,1 +1,2 @@
-# run10min
+# Run10Minute
+running mini game with Unity
